@@ -71,7 +71,7 @@ Google AI Studio에서 Gemini API 키를 발급받아야 합니다:
 
 ## 작성자
 
-**doodlefingers (Jeonghyo)**
+**doodlefingers (Jeonghyo)** - [Instagram](https://www.instagram.com/doodlefingers/)
 
 ## 버전
 
@@ -83,7 +83,7 @@ MIT
 
 ---
 
-# Gemini Text Generation API - TouchDesigner Component (English)
+# Gemini Text Generation API - TouchDesigner Component
 
 ## Overview
 
@@ -155,7 +155,7 @@ You need to obtain a Gemini API key from Google AI Studio:
 
 ## Author
 
-**doodlefingers (Jeonghyo)**
+**doodlefingers (Jeonghyo)** - [Instagram](https://www.instagram.com/doodlefingers/)
 
 ## Version
 
